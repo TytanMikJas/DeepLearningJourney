@@ -2,16 +2,18 @@
 
 This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning course that I edited to display my skills.I have taken the course during the summer of 2023 to make a significant step in my journey into the fascinating world of Artificial Intelligence. I give full credit to Mike X Cohen for the invaluable content and knowledge shared in this course.
 
-## Sections and Brief Descriptions
+## A list of things I have learned:
 
-### Concepts in Deep Learning:
+✔️ - means that I have already completed the section in the course :)
 
+### Concepts in Deep Learning: 
+✔️
 - Understanding artificial neural networks and their learning process.
 - The role of Deep Learning in advancing science and knowledge.
 - Comparing artificial "neurons" to biological neurons.
 
 ### Math, Numpy, PyTorch:
-
+✔️
 - Introduction to PyTorch and TensorFlow.
 - Spectral theories in mathematics.
 - Converting real-world data to numeric representation.
@@ -21,7 +23,7 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Derivatives and their role in optimization, including the product and chain rules.
 
 ### Gradient Descent:
-
+✔️
 - Overview of gradient descent and its application in optimization.
 - Handling local minima in gradient descent.
 - Implementing gradient descent in 1D and 2D.
@@ -30,7 +32,7 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Utilizing tangent notebooks for revision history.
 
 ### ANNs (Artificial Neural Networks):
-
+✔️
 - The architecture and geometry of perceptrons and ANNs.
 - Mathematical aspects of ANNs, including forward and backward propagation.
 - Implementing ANNs for regression and classification tasks.
@@ -38,14 +40,14 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Comparing ANN visual representations and their understandability.
 
 ### Overfitting and Cross-Validation:
-
+✔️
 - Understanding overfitting and its implications.
 - Using cross-validation to assess model performance and generalization.
 - Manual and automated cross-validation techniques.
 - Splitting data into training, development set, and test set.
 
 ### Regularization:
-
+✔️
 - Introduction to regularization and its methods.
 - Using dropout and weight regularization (L1/L2) to prevent overfitting.
 - Training models in mini-batches with equal batch sizes.
