@@ -53,7 +53,7 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Training models in mini-batches with equal batch sizes.
 
 ### Metaparameters (Activation, Optimizers):
-
+✔️
 - Exploring "metaparameters" and their role in model training.
 - Normalizing data for improved performance.
 - Understanding and implementing activation functions.
@@ -61,26 +61,26 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Selecting the right metaparameters for optimal performance.
 
 ### FFNs (Feed-Forward Networks):
-
+✔️
 - Building fully-connected and feedforward networks.
 - Applying FFNs to classify digits and predict heart disease.
 - Utilizing FFNs for missing data interpolation.
 
 ### More on Data:
-
+✔️
 - Understanding torch datasets and dataloaders.
 - The impact of data size and network size on performance.
 - Handling unbalanced designs, oversampling, noise augmentation, and feature augmentation.
 - Saving and loading trained models and finding online datasets.
 
 ### Measuring Model Performance:
-
+✔️
 - Evaluating models using accuracy, precision, recall, and F1 score.
 - Comparing model performance on different datasets.
 - Analyzing computation time and performance variations.
 
 ### FFN Milestone Projects:
-
+1/3 ✔️
 - Implementing projects involving complex adding machines, heart disease prediction, and missing data interpolation.
 
 ### Weights Inits and Investigations:
