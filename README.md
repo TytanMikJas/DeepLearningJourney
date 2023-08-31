@@ -80,22 +80,22 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Analyzing computation time and performance variations.
 
 ### FFN Milestone Projects:
-1/3 ✔️
+✔️
 - Implementing projects involving complex adding machines, heart disease prediction, and missing data interpolation.
 
 ### Weights Inits and Investigations:
-
+✔️
 - Exploring weight initialization techniques and their effects.
 - Comparing Xavier and Kaiming initializations.
 - Analyzing changes in weights during learning and freezing weights.
 
 ### Autoencoders:
-
+✔️
 - Understanding autoencoders and their applications.
 - Implementing denoising autoencoders and exploring the latent code of MNIST.
 
 ### Running Models on a GPU:
-
+✔️
 - Utilizing GPU for model training to improve performance.
 
 ### Convolution and Transformations:
