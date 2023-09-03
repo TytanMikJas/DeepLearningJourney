@@ -99,7 +99,7 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Utilizing GPU for model training to improve performance.
 
 ### Convolution and Transformations:
-
+✔️
 - Understanding convolution and feature maps.
 - Implementing convolution and pooling in code.
 - Using transpose convolution and image transformations.
