@@ -105,7 +105,7 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Using transpose convolution and image transformations.
 
 ### Understand and Design CNNs:
-
+✔️
 - Building canonical CNN architecture for image classification.
 - Analyzing feature map activations and internal parameters.
 - Applying autoencoders for noise removal and occlusion handling.
