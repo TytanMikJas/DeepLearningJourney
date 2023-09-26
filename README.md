@@ -112,11 +112,11 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Creating custom loss functions for CNNs.
 
 ### CNN Milestone Projects:
-
+✔️
 - Importing and classifying CIFAR10, implementing CIFAR-autoencoder, and using CNNs for Psychometric functions.
 
 ### Transfer Learning:
-
+✔️
 - Understanding and applying transfer learning.
 - Using pre-trained models and autoencoders for transfer learning.
 
