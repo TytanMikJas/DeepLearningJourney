@@ -121,20 +121,20 @@ This repository contains Jupyter notebooks from the "Mike X Cohen" Deep Learning
 - Using pre-trained models and autoencoders for transfer learning.
 
 ### Style Transfer:
-
+✔️
 - Implementing style transfer algorithms for images.
 
 ### Generative Adversarian Networks (GANs):
-
+✔️
 - Building linear and CNN-based GANs for generating images.
 
 ### RNNs (Recurrent Neural Networks) and GRU/LSTM:
-
+✔️
 - Utilizing RNNs for sequence data processing and sine wave extrapolation.
 - Implementing GRU and LSTM in PyTorch.
 
 ### Ethics on Deep Learning:
-
+✔️
 - Exploring ethical considerations and scenarios related to AI and deep learning.
 
 This course has laid a solid foundation for my future endeavors in AI, and I am grateful to Mike X Cohen for sharing his expertise and insights. The journey in AI continues, and I look forward to further exploration and discoveries!
